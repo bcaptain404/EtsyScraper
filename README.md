@@ -1,3 +1,5 @@
+These scripts aid in dumping Etsy ad metrics [of your own Etsy shop] into a csv file.
+
 NOTE: AI was used to churn-out these scripts for a single-use purpose; it has hardly been touched by human hands, I'll probably come back to this project some day and do something proper to it. But for now, this software is brand-new, untested, and probably full of bugs - use at your own risk.
 
 Steps:
